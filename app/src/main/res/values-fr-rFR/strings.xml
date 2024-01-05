@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_new_match">Ajouter un nouveau match</string>
+    <string name="match_list">Liste des matchs</string>
+    <string name="player1">Joueur1</string>
+    <string name="player2">Joueur2</string>
+    <string name="stadium_name">Stade</string>
+    <string name="take_picture">Prendre une photo</string>
+    <string name="score">score</string>
+    <string name="submit">Envoyer</string>
+    <string name="address">Adresse</string>
+    <string name="player_1">Joueur 1 :</string>
+    <string name="get_address">Ma localisation</string>
+    <string name="add_new_tennis_match">Ajouter un nouveau match</string>
+</resources>

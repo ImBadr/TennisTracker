@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.1425" />
+        <entry key="app/src/main/res/drawable/rounded_button.xml" value="0.3755" />
+        <entry key="app/src/main/res/drawable/rounded_edittext.xml" value="0.3755" />
+        <entry key="app/src/main/res/layout-land/activity_match_details.xml" value="0.23897707231040563" />
+        <entry key="app/src/main/res/layout-land/fragment_add_new_match.xml" value="0.23897707231040563" />
+        <entry key="app/src/main/res/layout/activity_add_new_match.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_match.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_match_details.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/activity_match_info.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_match_list.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/bottom_navigation_menu_layout.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fade_transition.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_add_new_match.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_match.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_match_list.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/list_element.xml" value="0.19038543701171873" />
+        <entry key="app/src/main/res/layout/match_item.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/match_list.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/menu/top_menu.xml" value="0.13229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_add_new_match"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sports_baseball_24"
+        android:title="@string/add_new_match" />
+    <item
+        android:id="@+id/page_match_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sports_tennis_24"
+        android:title="@string/match_list"/>
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Tennis Tracker</string>
+    <string name="add_new_match">Add new match</string>
+    <string name="match_list">Match List</string>
+    <string name="vs" translatable="false">VS</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="stadium_name">Stadium name</string>
+    <string name="take_picture">Take a picture</string>
+    <string name="score">score</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+    <string name="versus" translatable="false">" vs "</string>
+    <string name="player_1">Player 1 :</string>
+    <string name="get_address">Show my current location</string>
+    <string name="add_new_tennis_match">Add new tennis match</string>
+    <string name="dash" translatable="false">-</string>
+</resources>
